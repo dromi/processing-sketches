@@ -1,8 +1,0 @@
-total 24K
-drwxr-xr-x 2 dromi dromi 4.0K May  2 21:49 examples
-drwxr-xr-x 4 dromi dromi 4.0K May  2 21:50 fractaltree
--rw-r--r-- 1 dromi dromi    0 May  2 22:02 lala.txt
-drwxr-xr-x 2 dromi dromi 4.0K May  2 21:49 libraries
-drwxr-xr-x 2 dromi dromi 4.0K May  2 21:49 modes
-drwxr-xr-x 2 dromi dromi 4.0K May  2 21:49 templates
-drwxr-xr-x 2 dromi dromi 4.0K May  2 21:49 tools
