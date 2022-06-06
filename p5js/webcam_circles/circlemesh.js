@@ -14,7 +14,7 @@ class CircleMesh {
 
   move() {
     for (let c of this.circles) {
-      const speed = map((c.c[0] + c.c[1] + c.c[2])/3, 0, 255, 0, 10);
+      const speed = map((c.c[0] + c.c[1] + c.c[2])/3, 0, 255, 5, 0);
       const r = [-1, 0, 1];
       c.x = (c.x + random(r) * speed) % width;
       c.y = (c.y + random(r) * speed) % height;
